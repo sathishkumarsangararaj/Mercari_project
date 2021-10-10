@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mercari WebPage Test Automation Test Suite">
+
+	<test name="Mercari WebPage Test Cases">
+		<classes>
+			<class name="com.mercari.qa.testcases.LoginPageTest"></class>
+			<class name="com.mercari.qa.testcases.AddShippingPageTest"></class>
+			<class name="com.mercari.qa.testcases.SearchPageTest"></class>
+
+		</classes>
+	</test>
+</suite>
