@@ -1,1 +1,0 @@
-# Mercari_project
